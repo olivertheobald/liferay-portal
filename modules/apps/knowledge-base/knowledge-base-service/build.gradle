@@ -13,7 +13,7 @@ dependencies {
 	compileOnly group: "com.liferay", name: "com.liferay.exportimport.api", version: "2.0.0"
 	compileOnly group: "com.liferay", name: "com.liferay.exportimport.service", version: "4.0.0"
 	compileOnly group: "com.liferay", name: "com.liferay.knowledge.base.api", version: "4.9.0"
-	compileOnly group: "com.liferay", name: "com.liferay.knowledge.base.markdown.converter", version: "1.0.0"
+	compileOnly group: "com.liferay", name: "com.liferay.knowledge.base.markdown.converter", version: "1.0.12"
 	compileOnly group: "com.liferay", name: "com.liferay.petra.string", version: "1.0.0"
 	compileOnly group: "com.liferay", name: "com.liferay.portal.configuration.metatype", version: "2.0.0"
 	compileOnly group: "com.liferay", name: "com.liferay.portal.dao.orm.custom.sql", version: "1.0.0"
